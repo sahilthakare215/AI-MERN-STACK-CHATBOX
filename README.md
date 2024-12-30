@@ -1,4 +1,4 @@
-Description
+
 AI MERN Chatbox is a collaborative web application designed to facilitate real-time communication 
 and project management among users. Built using the MERN stack (MongoDB, Express, React, Node.js), 
 this application integrates artificial intelligence to assist users in coding tasks and project development.
